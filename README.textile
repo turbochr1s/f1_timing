@@ -1,0 +1,7 @@
+A set of scripts that go just so far in scraping data from FIA F1 timing press releases. This was, in part, a training exercise for myself to see what was involved with scraping data from PDFs...
+
+There are separate routines for each of the scrapeable timing documents on http://www.fia.com/en-GB/mediacentre/f1_media/Pages/timing.aspx
+
+The scraper is starting to pop data into separate tables matching FIA timing sheets. The tables will only persist for a week or two following a race in order to comply with FIA copyright conditions (so if you want the data at a later date, you'll need to grab around the time of the race weekend.)
+
+See: _f1datajunkie.blogspot.com_ for more details.
